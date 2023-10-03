@@ -6,7 +6,7 @@
 
 **Week 1:**
 
- - Day 1 (Tuesday): Kick-off Meeting**
+ - **Day 1 (Tuesday): Kick-off Meeting**
  - Conduct a project kick-off meeting to align on project goals.
  - Start creating Low level design for system.
 
